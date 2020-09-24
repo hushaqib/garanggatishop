@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: violet;
+    text-align: center;
+    padding: 15px;
+}
+
+.navbar h2{
+    text-align: center;
+    font-size: 36px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.navbar ul li{
+    display: inline;
+    margin-right: 15px;
+}
+
+.navbar ul li a{
+    color: bisque;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.navbar ul li a:hover{
+    background-color: black;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: violet;
+    color: white;
+    text-align: center;
+ }
