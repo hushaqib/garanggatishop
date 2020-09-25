@@ -50,18 +50,19 @@ p{
 }
 
 .home{
-    background-image: url("ggpgpsp.jpg");
-    background-position-x: center;
+    background-image: url("GARANGGATI\ ONLINE\ SHOP.png");
+    background-size: 300px 300px;
     background-repeat: no-repeat;
+    background-position: 492px 150px;
     font-family: 'Trebuchet MS', sans-serif;
   }
 
 .about{
-    background-color: bisque;
+    background-color: #f0aad0;
 }
 
 .navbar{
-    background-color: violet;
+    background-color: #8b0bb3;
     text-align: center;
     padding: 15px;
 }
@@ -90,7 +91,7 @@ p{
 
 .shop-now{
     text-align: center;
-    margin: 250px auto;
+    margin: 380px auto;
 }
 
 .shop-btn{
@@ -112,7 +113,7 @@ p{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: violet;
+    background-color: #8b0bb3;
     color: white;
     text-align: center;
  }
